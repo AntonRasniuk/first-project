@@ -1,1 +1,3 @@
-Primer
+public static void main (){
+	
+}
